@@ -23,13 +23,13 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criar uma imagem
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+leonard.ai
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+homem branco, cabelo e barba grandes e pretos.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
